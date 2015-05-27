@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.4.29)  27 MAY 2015 04:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.4.29)  27 MAY 2015 09:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -340,21 +340,25 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen112
 \Gin@req@width=\dimen113
 )
+(/usr/share/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
 (./nwen304_presentation1.aux)
 \openout1 = `nwen304_presentation1.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
-LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -420,28 +424,28 @@ e
 <browser.pdf, id=1, 1028.34187pt x 492.33937pt>
 File: browser.pdf Graphic file (type pdf)
  <use browser.pdf>
-Package pdftex.def Info: browser.pdf used on input line 9.
+Package pdftex.def Info: browser.pdf used on input line 12.
 (pdftex.def)             Requested size: 345.0pt x 165.17697pt.
 
 <editor.pdf, id=2, 1028.34187pt x 492.33937pt>
 File: editor.pdf Graphic file (type pdf)
  <use editor.pdf>
-Package pdftex.def Info: editor.pdf used on input line 11.
+Package pdftex.def Info: editor.pdf used on input line 14.
 (pdftex.def)             Requested size: 345.0pt x 165.17697pt.
 
 <editor_with_contents.pdf, id=3, 1028.34187pt x 492.33937pt>
 File: editor_with_contents.pdf Graphic file (type pdf)
 
 <use editor_with_contents.pdf>
-Package pdftex.def Info: editor_with_contents.pdf used on input line 13.
+Package pdftex.def Info: editor_with_contents.pdf used on input line 16.
 (pdftex.def)             Requested size: 345.0pt x 165.17697pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 9--14
+Underfull \hbox (badness 10000) in paragraph at lines 12--18
 
  []
 
@@ -449,31 +453,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 9--14
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./browser.pdf> <./editor.p
 df> <./editor_with_contents.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 18.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 21.
 
 (/usr/share/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 18.
- [2] [3] [4]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+ [2] [3] [4] [5] [6] [7]
 (./nwen304_presentation1.aux) ) 
 Here is how much of TeX's memory you used:
- 2562 strings out of 493109
- 32391 string characters out of 6140856
- 91454 words of memory out of 5000000
- 6002 multiletter control sequences out of 15000+600000
- 5158 words of font info for 19 fonts, out of 8000000 for 9000
+ 2662 strings out of 493109
+ 33812 string characters out of 6140856
+ 93463 words of memory out of 5000000
+ 6098 multiletter control sequences out of 15000+600000
+ 4553 words of font info for 17 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,4n,24p,249b,148s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,4n,24p,253b,174s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.p
 fb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on nwen304_presentation1.pdf (4 pages, 223022 bytes).
+Output written on nwen304_presentation1.pdf (7 pages, 227589 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
- 61 compressed objects within 1 object stream
+ 89 PDF objects out of 1000 (max. 8388607)
+ 69 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
